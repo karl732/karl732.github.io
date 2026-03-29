@@ -3,7 +3,7 @@
 # -- Informations sur le site --
 title: 'Karl Sondeji | Data Engineer'
 description: "Data Engineer Passionné par l'automatisation et le traitement des données, ce site est mon premier portfolio et blog."
-url: 'https://votre-username.github.io' # Remplacez par votre URL
+url: 'https://karl732.github.io' # URL
 
 # -- Auteur --
 author:
@@ -14,6 +14,12 @@ author:
 
 # -- Configuration de Jekyll --
 theme: minima # Le thème par défaut
+permalink: pretty # URLs du type /about/ pour les pages .md
+header_pages:
+  - about.md
+  - projets.md
+  - blog.md
+  - contact.md
 plugins:
   - jekyll-feed
   - jekyll-sitemap
