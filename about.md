@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: section-page
 title: À propos
-description: "Cette comporte une brève présentation"
+lead: "Parcours, formation, expériences et compétences techniques."
+description: "Présentation de Karl Sondeji — Data Engineer, parcours et compétences."
 permalink: /about/
 ---
 

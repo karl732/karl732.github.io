@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{%- comment -%}
+  Même principe que home.html : enveloppe sémantique + bandeau titre,
+  puis contenu Markdown rendu dans {{ content }}.
+  Front matter optionnel : lead (sous-titre sous le h1).
+{%- endcomment -%}
+<div class="site-page">
+  <section class="page-hero" aria-labelledby="page-hero-title">
+    <div class="wrapper">
+      <h1 id="page-hero-title" class="page-hero-title">{{ page.title | escape }}</h1>
+      {% if page.lead %}
+      <p class="page-hero-lead">{{ page.lead | escape }}</p>
+      {% endif %}
+    </div>
+  </section>
+
+  <section class="page-main content-section{% if page.page_main_class %} {{ page.page_main_class }}{% endif %}" aria-label="Contenu principal">
+    <div class="wrapper">
+      <div class="page-prose">
+        {{ content }}
+      </div>
+    </div>
+  </section>
+</div>

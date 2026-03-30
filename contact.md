@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: section-page
 title: Contact
+lead: "Échangeons sur une opportunité ou un besoin data."
 permalink: /contact/
 ---
 

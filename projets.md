@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: section-page
 title: Projets
+lead: "Travaux data où l’automatisation et l’analyse apportent une valeur mesurable."
 permalink: /projets/
----
-
-Une sélection de travaux où la donnée et l’automatisation apportent une valeur mesurable.
-
 ---
 
 ## Sécurisation d’une API vulnérable
