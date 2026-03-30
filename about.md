@@ -1,6 +1,7 @@
 ---
 layout: page
 title: À propos
+description: "Cette comporte une brève présentation"
 permalink: /about/
 ---
 
