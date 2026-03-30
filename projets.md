@@ -12,7 +12,7 @@ permalink: /projets/
 **Technologies :** PHP, SQL, Docker-compose, virtual-machine, Python-faker, HTTPS, web auto-certificates
 
 **Liens :**  
-[Démo / documentation](https://github.com/karl732/Securisation-API-vulnerable) · [Code source](https://github.com/karl732/Securisation-API-vulnerable)
+[Démo / documentation](https://github.com/ksondeji/Securisation-API-vulnerable) · [Code source](https://github.com/ksondeji/Securisation-API-vulnerable)
 
 **Prévisualisation :**
 
@@ -27,7 +27,7 @@ permalink: /projets/
 **Technologies :** Microsoft Fabric, orchestration ETL, medaillion architecture, modèle sémantique avec schéma étoile, rapport Power BI
 
 **Liens :**  
-[Démo / rapport](https://github.com/karl732/fabric-wind-power-analytics) · [Code source](https://github.com/karl732/fabric-wind-power-analytics)
+[Démo / rapport](https://github.com/ksondeji/fabric-wind-power-analytics) · [Code source](https://github.com/ksondeji/fabric-wind-power-analytics)
 
 **Prévisualisation :**
 
@@ -41,7 +41,7 @@ permalink: /projets/
 
 **Technologies :** R, Quarto, Tidymodels, caret, randomForest, xgboost
 
-[Démo / documentation](https://github.com/karl732/ML-sub-predictions-on-Bank-Marketing-Data) · [Code source](https://github.com/karl732/ML-sub-predictions-on-Bank-Marketing-Data)
+[Démo / documentation](https://github.com/ksondeji/ML-sub-predictions-on-Bank-Marketing-Data) · [Code source](https://github.com/ksondeji/ML-sub-predictions-on-Bank-Marketing-Data)
 
 **Prévisualisation :**
 
@@ -55,7 +55,7 @@ permalink: /projets/
 
 **Technologies :** R, économétrie, tarification, modèles non-linéaires
 
-[Démo / documentation](https://github.com/karl732/Electricity-consumers-average-price-bias) · [Code source](https://github.com/karl732/Electricity-consumers-average-price-bias)
+[Démo / documentation](https://github.com/ksondeji/Electricity-consumers-average-price-bias) · [Code source](https://github.com/ksondeji/Electricity-consumers-average-price-bias)
 
 **Prévisualisation :**
 
@@ -69,7 +69,7 @@ permalink: /projets/
 
 **Technologies :** Python, scikiit-learn, machine learning, gradient boosting
 
-[Démo / documentation](https://github.com/karl732/Enedis-Data-Challenge) · [Code source](https://github.com/karl732/Enedis-Data-Challenge)
+[Démo / documentation](https://github.com/ksondeji/Enedis-Data-Challenge) · [Code source](https://github.com/ksondeji/Enedis-Data-Challenge)
 
 **Prévisualisation :**
 

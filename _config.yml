@@ -3,14 +3,14 @@
 # -- Informations sur le site --
 title: 'Karl Sondeji | Data Engineer'
 description: "Data Engineer Passionné par l'automatisation et le traitement des données, ce site est mon premier portfolio et blog."
-url: 'https://karl732.github.io' # URL
+url: 'https://ksondeji.github.io' # URL
 
 # -- Auteur --
 author:
   name: 'Karl Sondeji'
   email: 'karl.sondeji@gmail.com'
   linkedin: 'Karl Sondeji' # pseudo
-  github: 'karl732' # pseudo
+  github: 'ksondeji' # pseudo
 
 # -- Configuration de Jekyll --
 theme: minima # Le thème par défaut
@@ -42,7 +42,7 @@ navigation:
 twitter:
   username: votre-pseudo-twitter
 github:
-  username: karl732
+  username: ksondeji
 
 # -- Google Analytics (suivre les visiteurs) --
 google_analytics: G-SGGHMVTSJL
