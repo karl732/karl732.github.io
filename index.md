@@ -5,7 +5,7 @@ title: 'Bienvenue'
 
 # Salut, je suis Karl Sondeji ! 👋🏾
 
-Aspiring Data Enginner passionné par l'intelligence artificielle, l'automatisation de pipelines et le développement d'outils pour résoudre des problèmes concrets.
+Aspirant Data Enginner passionné par l'intelligence artificielle, l'automatisation de pipelines et le développement d'outils pour résoudre des problèmes concrets.
 
 ## 🎯 Mon Expertise
 

@@ -1,0 +1,25 @@
+---
+/* Point d’entrée SCSS pour Minima : ce fichier devient /assets/main.css */
+/* (c’est ce lien que le thème inclut dans <head>). */
+---
+
+@import "minima";
+
+/* Panneau de contrôle design */
+:root {
+  --primary-color: #2563eb;
+  --primary-dark: #1d4ed8;
+  --text-color: #374151;
+  --heading-color: #111827;
+  --font-primary: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.site-header {
+  background: var(--primary-color);
+  border-bottom: none;
+}
+
+.site-title,
+.site-nav .page-link {
+  color: #fff !important;
+}
