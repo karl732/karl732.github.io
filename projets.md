@@ -4,7 +4,7 @@ title: Projets
 permalink: /projets/
 ---
 
-Une sélection de travaux où la donnée et l’automatisation apportent une valeur mesurable. Chaque fiche est enrichie avec des captures d’écran ou GIF hébergés dans `assets/images/`.
+Une sélection de travaux où la donnée et l’automatisation apportent une valeur mesurable.
 
 ---
 

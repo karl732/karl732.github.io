@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Mon parcours
 
-Je m’appelle **Karl Sondeji**, Data Engineer orienté automatisation, pipelines et mise en valeur des données. Ce site est mon espace pour partager mon parcours, mes projets et mes apprentissages.
+Je m’appelle **Karl Sondeji**, Aspirant Data Engineer orienté automatisation, pipelines et mise en valeur des données. Ce site est mon espace pour partager mon parcours, mes projets et mes apprentissages.
 
 ### Formation
 
