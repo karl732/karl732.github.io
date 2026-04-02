@@ -20,6 +20,20 @@ permalink: /projets/
 
 ---
 
+## Churn Téléco - une application de prédiction du churn client d'une entreprise de télécom
+
+**Résultat :** Prédiction des désabonnements avec 89% de précision et génération de recommandations de rétention personnalisées.
+
+**Technologies :** Python, streamlit, FastAPI, machine learning, prediction modeling, xgboost
+
+[Démo cloud](https://churn-app-prediction-rentention-clients-8cpwubapfylccarcjbwggb.streamlit.app/) · [Code source](https://github.com/ksondeji/churn-app-prediction-rentention-clients/)
+
+**Prévisualisation :**
+
+![Aperçu — Interface streamlit]({{ '/assets/images/churn-api-gif' | relative_url }})
+
+---
+
 ## Pipeline ETL orchestré & reporting Power BI (Microsoft Fabric)
 
 **Impact :** Des rapport Power BI alimentés et mis à jour quotidiennement avec les nouvelles données du jour prédent, et des équipes informés en cas de problèmes d'actualisation.
@@ -37,7 +51,7 @@ permalink: /projets/
 
 ## Prédiction de souscritpion sur une campagne marketing bancaire avec du Machine Learning
 
-**Résultat :** Meilleure identification de la clientèle et des candidats les plus susceptibles de souscrire à un dépôt à terme (précision de 89%).
+**Résultat :** Meilleure identification de la clientèle et des candidats les plus susceptibles de souscrire à un dépôt à terme (précision de 88%).
 
 **Technologies :** R, Quarto, Tidymodels, caret, randomForest, xgboost
 
