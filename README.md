@@ -28,7 +28,7 @@ Le déploiement est assuré par **GitHub Pages** : le dépôt `ksondeji.github.i
 | Thème | [Minima](https://github.com/jekyll/minima) (thème par défaut Jekyll, personnalisable) |
 | Hébergement | [GitHub Pages](https://pages.github.com/) |
 | Contenu | Pages et articles en **Markdown** ; mises en page personnalisées dans `_layouts/` |
-| Styles | SCSS dans `assets/` (ex. `assets/main.scss`) |
+| Styles | SCSS dans `assets/` (ex. `assets/main.scss`) | facile à maintenir
 | Plugins Jekyll | `jekyll-feed` (flux RSS), `jekyll-sitemap` (plan du site), `jekyll-seo-tag` (balises SEO) |
 | Analytics | Google Analytics (identifiant configuré dans `_config.yml`) |
 
@@ -80,12 +80,11 @@ Pour une collaboration ou un échange, la page Contact propose aussi un lien ver
 
 ## Prochaines étapes du projet
 
-Pistes naturelles d’évolution (à prioriser selon vos objectifs) :
+Prochaines étapes du projet :
 
 1. **Blog** — Publier les premiers billets dans `_posts/` pour activer la liste sur `/blog/` et le flux RSS (`jekyll-feed`).
-2. **Cohérence SEO & réseaux** — Finaliser les champs optionnels dans `_config.yml` (ex. pseudo Twitter/X si utilisé) pour que `jekyll-seo-tag` reflète exactement votre présence.
+2. **Cohérence SEO & réseaux** — Finaliser les champs optionnels dans `_config.yml` (ex. pseudo Twitter/X) pour que `jekyll-seo-tag` reflète exactement votre présence.
 3. **Thème & identité** — Affiner couleurs, typographie et composants Minima via `assets/main.scss` et surcharges dans `_layouts/` / `_includes/` pour renforcer la charte personnelle.
 4. **Qualité de build** — Ajouter un `Gemfile` + `Gemfile.lock` pour figer les versions en local et faciliter les contributions ou la CI.
-5. **Contenu portfolio** — Tenir `projets.md` à jour et ajouter captures ou résumés courts pour chaque réalisation mise en avant.
 
 ---

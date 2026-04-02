@@ -30,7 +30,7 @@ permalink: /projets/
 
 **Prévisualisation :**
 
-![Aperçu — Interface streamlit]({{ '/assets/images/churn-api-gif' | relative_url }})
+![Aperçu — Interface streamlit]({{ '/assets/images/churn-api-gif.gif' | relative_url }})
 
 ---
 
